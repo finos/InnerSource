@@ -1,5 +1,5 @@
 ---
-name: "\U0001F91D InnerSource SIG Meeting Minutes"
+name: "\U0001F91D InnerSource SIG Meeting Agenda and Minutes"
 about: To track InnerSource SIG meeting agenda and attendance
 title: DD MMM YYYY - InnerSource SIG Meeting Minutes
 labels: meeting
