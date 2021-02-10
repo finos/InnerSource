@@ -49,3 +49,6 @@ _day-of-week_ DD MMM yyyy - _time_ EST / _time_ UK
 - Meeting number: 
 - Password:
 - Call-in:
+
+### Mailing List
+Email innersource+subscribe@finos.org to subscribe to the InnerSource SIG mailing list.

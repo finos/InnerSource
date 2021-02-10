@@ -11,6 +11,10 @@ Please follow https://odp.finos.org/docs/project-collaboration/#finos-project-bl
 ## Governance
 This blueprint implements https://github.com/finos/community/tree/master/governance#open-source-software-projects
 
+
+## Mailing List
+Email innersource+subscribe@finos.org to subscribe to the InnerSource SIG mailing list.
+
 ## License
 
 Copyright 2019 Fintech Open Source Foundation
