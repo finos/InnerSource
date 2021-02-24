@@ -1,4 +1,4 @@
-# InnerSource Special Interest Group
+# FINOS InnerSource Special Interest Group
 
 InnerSource can help break down silos, encourage internal collaboration and innovation, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
 
