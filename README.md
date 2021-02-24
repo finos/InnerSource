@@ -20,9 +20,9 @@ Daniela Zheleva | Deutsche Bank | SIG Lead
 Roderick Randolph | Capital One | SIG Co-Lead
 Arthur Maltson | Capital One | SIG Co-Lead
 Clare Dillon | InnerSource Commons | SIG Secretary
-Aaron Searle | Morgan Stanley | Leadership  Committee
-Anthony Vacca | RBC | Leadership  Committee
-Danese Cooper | InnerSource Commons | Leadership Committee
+Aaron Searle | Morgan Stanley | SIG Leadership  Committee
+Anthony Vacca | RBC | SIG Leadership  Committee
+Danese Cooper | InnerSource Commons | SIG Leadership Committee
 
 ## Mailing List
 All SIG related communications are conducted through the innersource@finos.org mailing list. Email innersource@finos.org with questions or suggestions for collaboration use cases. Join the mailing list and stay up to date by sending a note to innersource+subscribe@finos.org.
