@@ -10,7 +10,7 @@ The InnerSource SIG is of particular importance to financial services organisati
 
 Discussions have an emphasis on challenges and concerns that are particular to FS organizations (e.g. relating to compliance or regulatory constraints).
 
-The InnerSource SIG target audience are individuals responsible for InnerSource implementation within financial services organizations, those in Open Source Program Offices interested in open source culture, behaviour and skills, or tech leaders wishing to increase collaboration and remove deal with excessive ownership issues that can stall innovation.  
+The InnerSource SIG target audience are individuals responsible for InnerSource implementation within financial services organizations, those in Open Source Program Offices interested in open source culture, behaviour and skills, or tech leaders wishing to increase collaboration and remove / deal with excessive ownership issues that can stall innovation.  
 
 ## InnerSource SIG Leadership
 
