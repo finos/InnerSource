@@ -2,7 +2,7 @@
 
 InnerSource can help break down silos, encourage internal collaboration and innovation, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
 
-## Introducting the InnerSource SIG
+## Introducing the InnerSource SIG
 
 The FINOS InnerSource [Special Interest Group](https://github.com/finos/community/tree/master/governance#special-interest-groups) is a community of people implementing, or interested in implementing, InnerSource within their financial services organization. 
 
