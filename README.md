@@ -1,4 +1,4 @@
-<img src="https://github.com/finos/branding/blob/master/sig-logos/innersource-sig/Horizontal/2020_InnerSourceSIG_Horizontal.png" width="400">
+<img src="https://github.com/finos/branding/blob/master/sig-logos/innersource-sig/Horizontal/2020_InnerSourceSIG_Horizontal.png" width="600">
 
 # FINOS InnerSource Special Interest Group
 
