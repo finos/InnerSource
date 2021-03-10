@@ -1,3 +1,5 @@
+<img src="https://github.com/finos/branding/blob/master/sig-logos/innersource-sig/Horizontal/2020_InnerSourceSIG_Horizontal.png" width="600">
+
 # FINOS InnerSource Special Interest Group
 
 InnerSource can help break down silos, encourage internal collaboration and innovation, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
