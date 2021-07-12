@@ -21,7 +21,6 @@ The InnerSource SIG target audience are individuals responsible for InnerSource 
 Name | Firm | Role
 :--- | :--- | :---
 Daniela Zheleva | Deutsche Bank | SIG Lead
-Roderick Randolph | Capital One | SIG Co-Lead
 Arthur Maltson | Capital One | SIG Co-Lead
 Clare Dillon | InnerSource Commons | SIG Secretary
 Aaron Searle | Morgan Stanley | SIG Leadership  Committee
