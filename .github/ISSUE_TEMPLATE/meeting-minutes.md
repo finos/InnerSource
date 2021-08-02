@@ -45,10 +45,13 @@ _day-of-week_ DD MMM yyyy - _time_ EST / _time_ UK
 - [ ] ...
 
 ### WebEx info
-- Meeting link: 
-- Meeting number: 
-- Password:
-- Call-in:
+- Webex : https://finos.webex.com/finos/j.php?MTID=m33975a6a163e1319c07e33a06bd3d1d5
+- Meeting number: 127 765 4882
+
+### Join by phone
+- +1-415-655-0003 US Toll
+- +44-20319-88141 UK Toll
+- Access code: 127 765 4882
 
 ### Mailing List
 Email innersource+subscribe@finos.org to subscribe to the InnerSource SIG mailing list.
