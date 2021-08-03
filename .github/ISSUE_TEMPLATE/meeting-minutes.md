@@ -29,6 +29,7 @@ _day-of-week_ DD MMM yyyy - _time_ EST / _time_ UK
 - [ ] Display [FINOS Antitrust Policy summary slide](https://github.com/finos/community/blob/master/governance/Compliance-Slides/Antitrust-Compliance-Slide.pdf) 
 - [ ] Review Meeting Notices (see above)
 - [ ] Approve past meeting minutes
+- [ ] Review FINOS Slack InnerSource SIG Channel - https://finos-lf.slack.com/archives/C01SYB503QT
 - [ ] Agenda item 1
 - [ ] Agenda item 2
 - [ ] ...
