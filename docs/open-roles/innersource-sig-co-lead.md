@@ -13,6 +13,8 @@ Helping run the [InnerSource Special Interest Group](https://github.com/finos/in
 
 - You'll help define and uphold InnerSource SIG community standards. You will represent the SIG within the FINOS community, both with the quality of your solutions and the way you treat people in the community.
 
+- The InnerSource SIG Co-Lead is also asked to chair InnerSource SIG meetings and report progress to the FINOS board on an 'as and when' basis.
+
 ## Skills Requirements
 
 The InnerSource SIG Co-Lead should ... 
