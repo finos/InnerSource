@@ -1,4 +1,5 @@
-# InnerSource SIG Co-Lead 
+# InnerSource SIG Co-Lead
+
 Helping run the [InnerSource Special Interest Group](https://github.com/finos/innersource) with the partner InnerSource SIG Co-Lead is a fun open source role involving a broad set of tasks that need to be taken care of, including ...
 
 ## Role Requirements
@@ -17,14 +18,14 @@ Helping run the [InnerSource Special Interest Group](https://github.com/finos/in
 
 ## Skills Requirements
 
-The InnerSource SIG Co-Lead should ... 
+The InnerSource SIG Co-Lead should ...
 
 - Be curious and like using critical thinking skills.
-- Pride yourself on doing the best work you can do. 
+- Pride yourself on doing the best work you can do.
 - Enjoy helping other people.
 - Be proactive and ask questions.
 - Be flexible and responsive.
- 
+
 The InnerSource SIG Co-Lead will have to understand the [FINOS Landscape](https://landscape.finos.org) and [FINOS Governance and Policies](https://github.com/finos/community/tree/master/governance). 
 
 The InnerSource SIG Co-Lead will reach out to FINOS for assistance and support as they need it.

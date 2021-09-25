@@ -2,7 +2,7 @@
 
 The following is a list of the open InnerSource SIG roles.
 
-* [InnerSource SIG Co-Lead](innersource-sig-co-lead.md)
+- [InnerSource SIG Co-Lead](innersource-sig-co-lead.md)
 
 ## Contact the InnerSource Special Interest Group
 
