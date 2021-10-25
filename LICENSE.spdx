@@ -1,1 +1,7 @@
-
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+Creator: FINOS, The Fintech Open Source Foundation
+PackageName: InnerSource Special Interest Group
+PackageOriginator: FINOS, The Fintech Open Source Foundation
+PackageHomePage: https://github.com/finos/innersource
+PackageLicenseDeclared: CC-BY-SA-4.0 AND Apache-2.0
