@@ -45,6 +45,6 @@ Need an ICLA? Unsure if you are covered under an existing CCLA? Email help@finos
 
 Copyright 2021 Fintech Open Source Foundation
 
-FINOS InnerSource SIG written materials are licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). Software source code is licensed and distributed under [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+FINOS InnerSource SIG written materials are licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). Software source code is licensed with [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0), [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
