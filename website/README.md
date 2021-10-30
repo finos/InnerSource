@@ -11,6 +11,7 @@ This website was created with [Docusaurus](https://docusaurus.io/).
 # Get Started in 5 Minutes
 
 1. Ensure NodeJS is installed
+
 ```sh
 $ node -v
 $ npm -v
@@ -30,6 +31,7 @@ $ yarn --cwd website install
 
 $ yarn --cwd website start
 ```
+
 This will open a browser on http://localhost:3300
 
 ## Directory Structure
@@ -54,11 +56,17 @@ Your project file structure should look something like this
 ```
 
 # Editing pages
-This website only includes one page, the `index.js`, which serves the `/` root path of the website.
 
-You can edit contents there, feel free to check other index pages to take inspiration:
-- [FDC3](http://fdc3.org/) - https://github.com/finos/FDC3/blob/master/website/pages/en/index.js
-- [Financial Objects](https://fo.finos.org/) - https://github.com/finos/finos-fo/blob/master/website/pages/en/index.js
+This website only includes one page, the `index.js`, which serves the `/` root
+path of the website.
+
+You can edit contents there, feel free to check other index pages to take
+inspiration:
+
+- [FDC3](http://fdc3.org/) -
+  https://github.com/finos/FDC3/blob/master/website/pages/en/index.js
+- [Financial Objects](https://fo.finos.org/) -
+  https://github.com/finos/finos-fo/blob/master/website/pages/en/index.js
 
 # Editing docs contents
 
@@ -77,13 +85,15 @@ title: This Doc Needs To Be Edited
 Edit me...
 ```
 
-For more information about docs, click [here](https://docusaurus.io/docs/en/navigation)
+For more information about docs, click
+[here](https://docusaurus.io/docs/en/navigation)
 
 # Adding Content
 
 ## Adding a new docs page to an existing sidebar
 
-1. Create the doc as a new markdown file in `/docs`, example `docs/newly-created-doc.md`:
+1. Create the doc as a new markdown file in `/docs`, example
+   `docs/newly-created-doc.md`:
 
 ```md
 ---
@@ -110,11 +120,13 @@ My new content here..
 }
 ```
 
-For more information about adding new docs, click [here](https://docusaurus.io/docs/en/navigation)
+For more information about adding new docs, click
+[here](https://docusaurus.io/docs/en/navigation)
 
 ## Adding items to your site's top navigation bar
 
-1. Add links to docs, custom pages or external links by editing the headerLinks field of `website/siteConfig.js`:
+1. Add links to docs, custom pages or external links by editing the headerLinks
+   field of `website/siteConfig.js`:
 
 `website/siteConfig.js`
 
@@ -134,12 +146,15 @@ For more information about adding new docs, click [here](https://docusaurus.io/d
 }
 ```
 
-For more information about the navigation bar, click [here](https://docusaurus.io/docs/en/navigation)
+For more information about the navigation bar, click
+[here](https://docusaurus.io/docs/en/navigation)
 
 ## Adding custom pages
 
-1. Docusaurus uses React components to build pages. The components are saved as .js files in `website/pages/en`:
-1. If you want your page to show up in your navigation header, you will need to update `website/siteConfig.js` to add to the `headerLinks` element:
+1. Docusaurus uses React components to build pages. The components are saved as
+   .js files in `website/pages/en`:
+1. If you want your page to show up in your navigation header, you will need to
+   update `website/siteConfig.js` to add to the `headerLinks` element:
 
 `website/siteConfig.js`
 
@@ -154,7 +169,8 @@ For more information about the navigation bar, click [here](https://docusaurus.i
 }
 ```
 
-For more information about custom pages, click [here](https://docusaurus.io/docs/en/custom-pages).
+For more information about custom pages, click
+[here](https://docusaurus.io/docs/en/custom-pages).
 
 # Full Documentation
 
