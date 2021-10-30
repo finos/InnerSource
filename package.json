@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/finos/InnerSource/issues"
   },
-  "homepage": "https://github.com/finos/InnerSource#readme"
+  "homepage": "https://github.com/finos/InnerSource#readme",
+  "dependencies": {
+    "prettier": "^2.4.1"
+  }
 }
