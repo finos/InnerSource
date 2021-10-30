@@ -52,13 +52,16 @@ note to innersource+subscribe@finos.org.
 ## Contributing
 
 1. Fork it (https://github.com/finos/innersource/fork)
-2. Create your feature branch (git checkout -b feature/fooBar)
-3. Read our
+1. Create your feature branch (git checkout -b feature/fooBar)
+1. Read our
    [contribution guidelines](https://github.com/finos/InnerSource/blob/master/CONTRIBUTING.md)
    and [Community Code of Conduct](https://www.finos.org/code-of-conduct)
-4. Commit your changes (git commit -am 'Add some fooBar')
-5. Push to the branch (git push origin feature/fooBar)
-6. Create a new Pull Request
+1. Make your changes on the fork. Ensure any documentation and code changes are
+   formatted correctly by executing `npm run fmt` (see below for setup
+   instructions).
+1. Commit your changes (git commit -am 'Add some fooBar')
+1. Push to the branch (git push origin feature/fooBar)
+1. Create a new Pull Request
 
 _NOTE:_ Commits and pull requests to FINOS repositories will only be accepted
 from those contributors with an active, executed Individual Contributor License
@@ -70,6 +73,23 @@ individuals/employees to be explicitly named on the CCLA.
 
 Need an ICLA? Unsure if you are covered under an existing CCLA? Email
 help@finos.org
+
+### Workstation Setup
+
+To ensure a smooth contributing experience, please ensure you follow the
+workstation setup. This project makes use of [Prettier](https://prettier.io/) to
+format all Markdown documentation to ensure consistency across the whole
+repository. Prettier is built on [Node.js](https://nodejs.org/), which will need
+to be installed. To ensure your document changes are formatted correctly, follow
+these steps:
+
+1. Install the latest LTS Node.js either by
+   [downloading an installer](https://nodejs.org/en/download/), using a package
+   manager like Homebrew (`brew install node@16` as of this writing), or a
+   version manager like [`nvm`](https://github.com/nvm-sh/nvm) or
+   [`asdf`](https://github.com/asdf-vm/asdf).
+1. `npm install` - NPM now ships with every Node.js installation.
+1. `npm run fmt` - this executes the formatting script.
 
 ## License
 
