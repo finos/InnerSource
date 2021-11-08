@@ -1,0 +1,26 @@
+{
+  "name": "innersource-sig",
+  "version": "0.1.0",
+  "description": "The FINOS InnerSource Special Interest Group",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "npx prettier --check *.md **/*.md",
+    "fmt": "npx prettier --write *.md **/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finos/InnerSource.git"
+  },
+  "author": "FINOS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/finos/InnerSource/issues"
+  },
+  "homepage": "https://github.com/finos/InnerSource#readme",
+  "dependencies": {
+    "prettier": "^2.4.1"
+  }
+}
