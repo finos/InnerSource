@@ -58,7 +58,7 @@ note to innersource+subscribe@finos.org.
    and [Community Code of Conduct](https://www.finos.org/code-of-conduct)
 1. Make your changes on the fork. Ensure any documentation and code changes are
    formatted correctly by executing `npm run fmt` (see below for setup
-   instructions).
+   instructions). If `npm run fmt` isn't executed, the build will fail.
 1. Commit your changes (git commit -am 'Add some fooBar')
 1. Push to the branch (git push origin feature/fooBar)
 1. Create a new Pull Request
