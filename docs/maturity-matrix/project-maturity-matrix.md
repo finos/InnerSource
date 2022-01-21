@@ -19,7 +19,7 @@
 
 - Level 0:
   - Code compiles and can be executed. 
-- A mix of automated and manual tests
+  - A mix of automated and manual tests
 
 - Level 1:
   - Unit tests are automated
