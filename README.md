@@ -46,7 +46,9 @@ ownership issues that can stall innovation.
 
 - [Sign up to the mailing list](#mailing-list) to stay up to date
 - Explore our [curated list of InnerSource resources](docs/resources.md)
-- Join an [upcoming SIG meeting](https://github.com/finos/InnerSource/issues?q=is%3Aopen+is%3Aissue+label%3Ameeting) (or read the minutes from previous ones)
+- Join an
+  [upcoming SIG meeting](https://github.com/finos/InnerSource/issues?q=is%3Aopen+is%3Aissue+label%3Ameeting)
+  (or read the minutes from previous ones)
 
 ## Mailing List
 
