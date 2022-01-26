@@ -35,4 +35,3 @@ The list includes both free resources, and those which you have to pay to use -
 ## Training
 
 - [InnerSource Commons Learning Path](https://innersourcecommons.org/learn/learning-path/)
-  diff --git a/README.md b/README.md
