@@ -1,0 +1,23 @@
+{
+  "unversionedId": "team",
+  "id": "team",
+  "isDocsHomePage": false,
+  "title": "Team",
+  "description": "....",
+  "source": "@site/../docs/team.md",
+  "sourceDirName": ".",
+  "slug": "/team",
+  "permalink": "/docs/team",
+  "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/team.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "team",
+    "title": "Team"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

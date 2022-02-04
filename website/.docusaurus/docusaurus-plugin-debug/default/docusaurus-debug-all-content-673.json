@@ -1,0 +1,328 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs",
+          "versionEditUrlLocalized": "https://github.com/finos/open-developer-platform/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/jamesmcleod/Projects/FINOS/InnerSource/website/sidebars.js",
+          "contentPath": "/Users/jamesmcleod/Projects/FINOS/InnerSource/docs",
+          "contentPathLocalized": "/Users/jamesmcleod/Projects/FINOS/InnerSource/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "awesome",
+          "sidebars": {
+            "mainSidebar": [
+              {
+                "type": "category",
+                "collapsed": true,
+                "collapsible": true,
+                "label": "Main Menu",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "awesome"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "home"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "maturity-matrix/maturity-organization"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "maturity-matrix/maturity-project"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "maturity-matrix/maturity-readme"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "open-roles/README"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "open-roles/innersource-sig-co-lead"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "roadmap"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "team"
+                  }
+                ]
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "awesome",
+              "id": "awesome",
+              "isDocsHomePage": false,
+              "title": "Awesome InnerSource Resources",
+              "description": "Awesome",
+              "source": "@site/../docs/awesome.md",
+              "sourceDirName": ".",
+              "slug": "/awesome",
+              "permalink": "/docs/awesome",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/awesome.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "awesome",
+                "title": "Awesome InnerSource Resources"
+              },
+              "sidebar": "mainSidebar",
+              "next": {
+                "title": "Home",
+                "permalink": "/docs/home"
+              }
+            },
+            {
+              "unversionedId": "home",
+              "id": "home",
+              "isDocsHomePage": false,
+              "title": "Home",
+              "description": "Getting started",
+              "source": "@site/../docs/home.md",
+              "sourceDirName": ".",
+              "slug": "/home",
+              "permalink": "/docs/home",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/home.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "home",
+                "title": "Home"
+              },
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Awesome InnerSource Resources",
+                "permalink": "/docs/awesome"
+              },
+              "next": {
+                "title": "Organization Maturity Matrix",
+                "permalink": "/docs/maturity-matrix/maturity-organization"
+              }
+            },
+            {
+              "unversionedId": "maturity-matrix/maturity-organization",
+              "id": "maturity-matrix/maturity-organization",
+              "isDocsHomePage": false,
+              "title": "Organization Maturity Matrix",
+              "description": "Organization Maturity Matrix",
+              "source": "@site/../docs/maturity-matrix/organization-maturity-matrix.md",
+              "sourceDirName": "maturity-matrix",
+              "slug": "/maturity-matrix/maturity-organization",
+              "permalink": "/docs/maturity-matrix/maturity-organization",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/maturity-matrix/organization-maturity-matrix.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "maturity-organization",
+                "title": "Organization Maturity Matrix"
+              },
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Home",
+                "permalink": "/docs/home"
+              },
+              "next": {
+                "title": "Project Level InnerSource Maturity",
+                "permalink": "/docs/maturity-matrix/maturity-project"
+              }
+            },
+            {
+              "unversionedId": "maturity-matrix/maturity-project",
+              "id": "maturity-matrix/maturity-project",
+              "isDocsHomePage": false,
+              "title": "Project Level InnerSource Maturity",
+              "description": "Project Level InnerSource Maturity",
+              "source": "@site/../docs/maturity-matrix/project-maturity-matrix.md",
+              "sourceDirName": "maturity-matrix",
+              "slug": "/maturity-matrix/maturity-project",
+              "permalink": "/docs/maturity-matrix/maturity-project",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/maturity-matrix/project-maturity-matrix.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "maturity-project",
+                "title": "Project Level InnerSource Maturity"
+              },
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Organization Maturity Matrix",
+                "permalink": "/docs/maturity-matrix/maturity-organization"
+              },
+              "next": {
+                "title": "InnerSource Maturity Matrix",
+                "permalink": "/docs/maturity-matrix/maturity-readme"
+              }
+            },
+            {
+              "unversionedId": "maturity-matrix/maturity-readme",
+              "id": "maturity-matrix/maturity-readme",
+              "isDocsHomePage": false,
+              "title": "InnerSource Maturity Matrix",
+              "description": "Overview",
+              "source": "@site/../docs/maturity-matrix/README.md",
+              "sourceDirName": "maturity-matrix",
+              "slug": "/maturity-matrix/maturity-readme",
+              "permalink": "/docs/maturity-matrix/maturity-readme",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/maturity-matrix/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "maturity-readme",
+                "title": "InnerSource Maturity Matrix"
+              },
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Project Level InnerSource Maturity",
+                "permalink": "/docs/maturity-matrix/maturity-project"
+              },
+              "next": {
+                "title": "Open Roles - InnerSource Special Interest Group",
+                "permalink": "/docs/open-roles/README"
+              }
+            },
+            {
+              "unversionedId": "open-roles/innersource-sig-co-lead",
+              "id": "open-roles/innersource-sig-co-lead",
+              "isDocsHomePage": false,
+              "title": "InnerSource SIG Co-Lead",
+              "description": "Helping run the InnerSource Special Interest Group with the partner InnerSource SIG Co-Lead is a fun open source role involving a broad set of tasks that need to be taken care of, including ...",
+              "source": "@site/../docs/open-roles/innersource-sig-co-lead.md",
+              "sourceDirName": "open-roles",
+              "slug": "/open-roles/innersource-sig-co-lead",
+              "permalink": "/docs/open-roles/innersource-sig-co-lead",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/open-roles/innersource-sig-co-lead.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Open Roles - InnerSource Special Interest Group",
+                "permalink": "/docs/open-roles/README"
+              },
+              "next": {
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
+              }
+            },
+            {
+              "unversionedId": "open-roles/README",
+              "id": "open-roles/README",
+              "isDocsHomePage": false,
+              "title": "Open Roles - InnerSource Special Interest Group",
+              "description": "The following is a list of the open InnerSource SIG roles.",
+              "source": "@site/../docs/open-roles/README.md",
+              "sourceDirName": "open-roles",
+              "slug": "/open-roles/README",
+              "permalink": "/docs/open-roles/README",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/open-roles/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "InnerSource Maturity Matrix",
+                "permalink": "/docs/maturity-matrix/maturity-readme"
+              },
+              "next": {
+                "title": "InnerSource SIG Co-Lead",
+                "permalink": "/docs/open-roles/innersource-sig-co-lead"
+              }
+            },
+            {
+              "unversionedId": "roadmap",
+              "id": "roadmap",
+              "isDocsHomePage": false,
+              "title": "Roadmap",
+              "description": "....",
+              "source": "@site/../docs/roadmap.md",
+              "sourceDirName": ".",
+              "slug": "/roadmap",
+              "permalink": "/docs/roadmap",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/roadmap.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "roadmap",
+                "title": "Roadmap"
+              },
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "InnerSource SIG Co-Lead",
+                "permalink": "/docs/open-roles/innersource-sig-co-lead"
+              },
+              "next": {
+                "title": "Team",
+                "permalink": "/docs/team"
+              }
+            },
+            {
+              "unversionedId": "team",
+              "id": "team",
+              "isDocsHomePage": false,
+              "title": "Team",
+              "description": "....",
+              "source": "@site/../docs/team.md",
+              "sourceDirName": ".",
+              "slug": "/team",
+              "permalink": "/docs/team",
+              "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/team.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "team",
+                "title": "Team"
+              },
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}
