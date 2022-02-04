@@ -1,3 +1,8 @@
+---
+id: maturity-readme
+title: {project name} docs
+---
+
 # InnerSource Maturity Matrix
 
 ## Overview

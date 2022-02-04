@@ -1,3 +1,8 @@
+---
+id: maturity-project
+title: {project name} docs
+---
+
 ## Project Level InnerSource Maturity
 
 ### Tooling and Processes

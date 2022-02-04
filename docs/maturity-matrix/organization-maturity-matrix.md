@@ -1,3 +1,8 @@
+---
+id: maturity-organization
+title: {project name} docs
+---
+
 ## Organization Maturity Matrix
 
 ### Transparency
