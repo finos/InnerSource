@@ -1,6 +1,6 @@
 ---
 id: maturity-project
-title: {project name} docs
+title: Project Level InnerSource Maturity
 ---
 
 ## Project Level InnerSource Maturity
@@ -78,8 +78,8 @@ title: {project name} docs
   - Process maintainers use to decide which work gets done is transparent and contributors understand how that process works. 
 
 - Examples:
-  - [Project Lifecycle Definition]()
-  - [Project Activation]()
+  - [Project Lifecycle Definition](https://)
+  - [Project Activation](https://)
 
 ### Documentation, Standards, & Communication
 

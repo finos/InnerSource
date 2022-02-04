@@ -1,6 +1,6 @@
 ---
 id: maturity-organization
-title: {project name} docs
+title: Organization Maturity Matrix
 ---
 
 ## Organization Maturity Matrix

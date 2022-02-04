@@ -2,9 +2,9 @@
 
 
 // Replace 'project-blueprint' with {project name}
-const projectName = 'Project Blueprint'
+const projectName = 'InnerSource SIG'
 // Replace 'project-blueprint' with {project name}
-const projectSlug = 'project-blueprint'
+const projectSlug = 'innersource-sig'
 // Replace 'FINOS' with {name of copyright owner}
 const copyrightOwner = 'FINOS'
 
