@@ -1,0 +1,23 @@
+{
+  "unversionedId": "awesome",
+  "id": "awesome",
+  "isDocsHomePage": false,
+  "title": "Awesome InnerSource Resources",
+  "description": "Awesome",
+  "source": "@site/../docs/awesome.md",
+  "sourceDirName": ".",
+  "slug": "/awesome",
+  "permalink": "/docs/awesome",
+  "editUrl": "https://github.com/finos/open-developer-platform/edit/master/website/../docs/awesome.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "awesome",
+    "title": "Awesome InnerSource Resources"
+  },
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "Home",
+    "permalink": "/docs/home"
+  }
+}

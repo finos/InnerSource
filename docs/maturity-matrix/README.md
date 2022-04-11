@@ -1,3 +1,8 @@
+---
+id: maturity-readme
+title: InnerSource Maturity Matrix
+---
+
 # InnerSource Maturity Matrix
 
 ## Overview

@@ -1,177 +1,44 @@
-This website was created with [Docusaurus](https://docusaurus.io/).
+This website was created with [Docusaurus v2](https://v2.docusaurus.io/).
 
-# What's In This Document
+In order to start working with Docusaurus, please read the
+[Getting Started guide](https://docusaurus.io/docs/configuration) and browse
+through the following folders and files:
 
-- [Get Started in 5 Minutes](#get-started-in-5-minutes)
-- [Directory Structure](#directory-structure)
-- [Editing Content](#editing-content)
-- [Adding Content](#adding-content)
-- [Full Documentation](#full-documentation)
+- `website` - contains the Node/React code to build the website
+- `website/docusaurus.config.js` - contains the Docusaurus configuration; you'll
+  need to edit this file.
+- `website/static` - contains images, PDF and other static assets used in the
+  website; if you add a `file.pdf` in this folder, it will be served as
+  `https://<your_host>/file.pdf`.
+- `docs` - contains the `.md` and `.mdx` files that are served as
+  `https://<your_host>/<file_id>` ; the `file_id` is defined at the top of the
+  file.
 
-# Get Started in 5 Minutes
+## Local run
 
-1. Ensure NodeJS is installed
+Running Docusaurus locally is very simple, just follow these steps:
 
-```sh
-$ node -v
-$ npm -v
-```
+- Make sure `node` version is 14 or higher, using `node -v` ; you can use
+  [nvm](https://github.com/nvm-sh/nvm) to install different node versions in
+  your system.
+- `cd website ; npm install ; npm run start`
 
-2. Install and run Docusaurus locally
+The command should open your browser and point to `http://localhost:3000`.
 
-```sh
-$ git clone git@github.com:<your fork>/{project slug}.git
-$ cd {project slug}
+## Deployment
 
-# Download dependencies
-$ yarn --cwd website install
+[Netlify] (https://www.netlify.com/) is the default way to serve FINOS websites
+publicly. Find docs [here]
+(https://docs.netlify.com/configure-builds/get-started/).
 
-# Generate contributing.md page
-./scripts/build-contribute-page.sh
+You can configure Netlify using your own GitHub account, pointing to a personal
+repository (or fork); when adding a new site, please use the following
+configuration:
 
-$ yarn --cwd website start
-```
+- Woeking directory: `website`
+- Build command: `yarn build`
+- Build directory: `website/build`
 
-This will open a browser on http://localhost:3300
-
-## Directory Structure
-
-Your project file structure should look something like this
-
-```
-/
-  docs/
-    home.md
-    roadmap.md
-    team.md
-  website/
-    pages/en
-      index.js
-    static/
-      css/
-      img/
-    package.json
-    sidebars.json
-    siteConfig.js
-```
-
-# Editing pages
-
-This website only includes one page, the `index.js`, which serves the `/` root
-path of the website.
-
-You can edit contents there, feel free to check other index pages to take
-inspiration:
-
-- [FDC3](http://fdc3.org/) -
-  https://github.com/finos/FDC3/blob/master/website/pages/en/index.js
-- [Financial Objects](https://fo.finos.org/) -
-  https://github.com/finos/finos-fo/blob/master/website/pages/en/index.js
-
-# Editing docs contents
-
-## Editing an existing docs page
-
-Edit docs by navigating to `docs/` and editing the corresponding document:
-
-`docs/doc-to-be-edited.md`
-
-```markdown
----
-id: page-needs-edit
-title: This Doc Needs To Be Edited
----
-
-Edit me...
-```
-
-For more information about docs, click
-[here](https://docusaurus.io/docs/en/navigation)
-
-# Adding Content
-
-## Adding a new docs page to an existing sidebar
-
-1. Create the doc as a new markdown file in `/docs`, example
-   `docs/newly-created-doc.md`:
-
-```md
----
-id: newly-created-doc
-title: This Doc Needs To Be Edited
----
-
-My new content here..
-```
-
-1. Refer to that doc's ID in an existing sidebar in `website/sidebars.json`:
-
-```javascript
-// Add newly-created-doc to the Getting Started category of docs
-{
-  "docs": {
-    "Getting Started": [
-      "quick-start",
-      "newly-created-doc" // new doc here
-    ],
-    ...
-  },
-  ...
-}
-```
-
-For more information about adding new docs, click
-[here](https://docusaurus.io/docs/en/navigation)
-
-## Adding items to your site's top navigation bar
-
-1. Add links to docs, custom pages or external links by editing the headerLinks
-   field of `website/siteConfig.js`:
-
-`website/siteConfig.js`
-
-```javascript
-{
-  headerLinks: [
-    ...
-    /* you can add docs */
-    { doc: 'my-examples', label: 'Examples' },
-    /* you can add custom pages */
-    { page: 'help', label: 'Help' },
-    /* you can add external links */
-    { href: 'https://github.com/facebook/docusaurus', label: 'GitHub' },
-    ...
-  ],
-  ...
-}
-```
-
-For more information about the navigation bar, click
-[here](https://docusaurus.io/docs/en/navigation)
-
-## Adding custom pages
-
-1. Docusaurus uses React components to build pages. The components are saved as
-   .js files in `website/pages/en`:
-1. If you want your page to show up in your navigation header, you will need to
-   update `website/siteConfig.js` to add to the `headerLinks` element:
-
-`website/siteConfig.js`
-
-```javascript
-{
-  headerLinks: [
-    ...
-    { page: 'my-new-custom-page', label: 'My New Custom Page' },
-    ...
-  ],
-  ...
-}
-```
-
-For more information about custom pages, click
-[here](https://docusaurus.io/docs/en/custom-pages).
-
-# Full Documentation
-
-Full documentation can be found on the [website](https://docusaurus.io/).
+If you want to serve your website through `https://<project_name>.finos.org`,
+please email [help@finos.org](mailto:help@finos.org). To check a preview, visit
+https://project-blueprint.finos.org .
