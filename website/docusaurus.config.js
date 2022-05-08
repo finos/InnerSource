@@ -10,7 +10,7 @@ const copyrightOwner = 'FINOS'
 
 module.exports = {
   title: `FINOS ${projectName}`,
-  tagline: `FINOS ${projectName}`, 
+  tagline: ``, 
   url: 'https://finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-finos.ico',
@@ -22,28 +22,28 @@ module.exports = {
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     navbar: {
       title: `FINOS ${projectName}`,
       logo: {
         alt: 'FINOS Logo',
-        src: 'img/favicon/favicon-finos.ico',
+        src: 'img/finos/finos-white-min.svg',
       },
       items: [
-        {to: 'docs/home', label: 'Docs', position: 'right'},
-        {to: 'docs/roadmap', label: 'Roadmap', position: 'right'},
-        {to: 'docs/team', label: 'Team', position: 'right'},
-        {
-          href: 'https://github.com/finos/',
-          label: 'GitHub',
-          position: 'right',
-        }
+        {to: 'docs/get-involved', label: 'Get Involved', position: 'right'},
+        {to: 'docs/resources', label: 'Resources', position: 'right'},
+        {to: 'docs/maturity-matrix/maturity-readme', label: 'Maturity Matrix', position: 'right'}
       ],
     },
     footer: {
       copyright: `Copyright © ${new Date().getFullYear()} ${projectName} - ${copyrightOwner}`,
       logo: {
         alt: 'FINOS Logo',
-        src: 'img/favicon/favicon-finos.ico',
+        src: 'img/finos/finos-white-min.svg',
         href: 'https://finos.org'
       },
       links: [
@@ -51,20 +51,20 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Getting Started',
-              to: 'docs/home',
+              label: 'Get Involved',
+              to: 'docs/get-involved',
             },
             {
-              label: 'Roadmap',
-              to: 'docs/roadmap',
-            },
-            {
-              label: 'Team',
+              label: 'SIG Leadership Team',
               to: 'docs/team',
             },
             {
-              label: 'About FINOS',
-              to: 'docs/about-finos',
+              label: 'Resources',
+              to: 'docs/resources',
+            },
+            {
+              label: 'Maturity Matrix',
+              to: 'docs/maturity-matrix/maturity-readme',
             }
           ]
         },

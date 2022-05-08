@@ -8,18 +8,19 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #00b5e2;
-  --ifm-color-primary-dark: #0079ac;
-  --ifm-color-primary-darker: #0072a2;
-  --ifm-color-primary-darkest: #005e86;
-  --ifm-color-primary-light: #0093d2;
-  --ifm-color-primary-lighter: #009adc;
-  --ifm-color-primary-lightest: #00aef8;
-  --ifm-font-color-base: #1C1E21;
-  --ifm-heading-color: #19B6CC;
-  --ifm-navbar-background-color: #0086BF;
+  --ifm-color-primary-dark: #0087A8;
+  --ifm-color-primary-darker: #005A70;
+  --ifm-color-primary-darkest: #002D38;
+  --ifm-color-primary-light: #29D4FF;
+  --ifm-color-primary-lighter: #70E2FF;
+  --ifm-color-primary-lightest: #B8F1FF;
+  --ifm-font-color-base: #000000;
+  --ifm-heading-color: #00b5e2;
+  --ifm-navbar-background-color: #00b5e2;
   --ifm-navbar-link-color: #FFFFFF;
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary-lightest);
   --ifm-navbar-shadow: 0;
-  --ifm-footer-background-color: #0086BF;
+  --ifm-footer-background-color: #00b5e2;
   --ifm-footer-title-color: #ffffff;
   --ifm-footer-color: #ffffff;
   --ifm-footer-link-color: #ffffff;
@@ -38,7 +39,7 @@
 }
 
 .hero.hero--primary {
-  background-color: #0086BF;
+  background-color: #00b5e2;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -50,11 +51,17 @@
 
 .hero__title {
   color: #ffffff;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-image: url('../../static/img/finos/innersource-sig-white.svg');
+  min-height: 15rem;
 }
 
 .hero--subtitle {
-  margin-bottom: 50px;
   font-size: 1.5rem;
+  text-indent: -9999px;
 }
 
 .row h2 {
@@ -91,4 +98,12 @@ body{
 .padding {
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+}
+
+.footer__logo {
+  max-height: 4rem;
 }

@@ -2,14 +2,14 @@ import React from 'react';
 
 export const features = [
     {
-        title: <>Feature 1</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        title: <>What is the SIG?</>,
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>The FINOS InnerSource <a href="https://github.com/finos/community/tree/master/governance#special-interest-groups">Special Interest Group</a> is a community of people implementing, or interested in implementing,
+            InnerSource within their financial services organization in order to increase collaboration and remove/deal with excessive ownership issues that can stall innovation.</>
         ),
         about: {
-            title: <>Placeholder Link</>,
-            link: 'docs'
+            title: '',
+            link: ''
         },        
         project: {
             title: '',
@@ -21,14 +21,15 @@ export const features = [
         }  
     },
     {
-        title: <>Feature 2</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        title: <>Who is it relevant to?</>,
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>It is likely of particular importance to financial services
+            organisations who wish to accelerate their InnerSource practices, share best
+            practices, patterns and anti-patterns and potentially related code in a secure environment in collaboration with others in similar positions.</>
         ),
         about: {
-            title: <>Placeholder Link</>,
-            link: 'docs'
+            title: '',
+            link: ''
         },                
         project: {
             title: '',
@@ -40,14 +41,19 @@ export const features = [
         }  
     },
     {
-        title: <>Feature 3</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        title: <>How can I get involved?</>,
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>Here are a few ways to get involved:
+                <ul className="no-bullets">
+                  <li>Join us for <a href=''>an upcoming meeting</a></li>
+                  <li>Subscribe to <a href=''>our mailing list</a></li>
+                  <li>Dig deep in <a href=''>our curated collection of resources</a></li>
+                  <li>Explore <a href=''>our Innersource Maturity Matrix</a></li>
+                </ul></>
         ),
         about: {
-            title: <>Placeholder Link</>,
-            link: 'docs'
+            title: '',
+            link: ''
         },                
         project: {
             title: '',

@@ -1,20 +1,17 @@
 ---
 id: maturity-project
-title: Project Level InnerSource Maturity
+title: Project Maturity
 ---
 
-## Project Level InnerSource Maturity
+## Tooling and Processes
 
-### Tooling and Processes
-
-#### Development & On-boarding
+### Development & On-boarding
 
 - Level 0:
 
 - Level 1:
 
 - Level 2:
-
   - External developers can build and test the code locally with minimum help
     from core team.
   - Team hosts open office hours at a regular cadance
@@ -23,21 +20,18 @@ title: Project Level InnerSource Maturity
   - External developers can pull, build and test the code locally and
     automatically.
 
-#### Continuous Integration & Testing
+### Continuous Integration & Testing
 
 - Level 0:
-
   - Code compiles and can be executed.
   - A mix of automated and manual tests
 
 - Level 1:
-
   - Unit tests are automated
   - Teams has develops their own CI process, using non corporate or standard CI
     tools.
 
 - Level 2:
-
   - Automated builds execute a range of tests and pre-release gate checks-
     Integration tests are automated
   - There are CI environments.
@@ -45,22 +39,19 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-#### Continuous Deployment & Building
+### Continuous Deployment & Building
 
 - Level 0:
-
   - Builds are manual or scheduled (ie nightly)
   - Approved PR does not guarantee Production release
 
 - Level 1:
-
   - Builds are automated on merge. Not automatically releasing to pre-prod
     environments.
   - Approved PRs are integration-tested and deployed to Production on host team
     cadence
 
 - Level 2:
-
   - Approved PRs can be deployed to Production independent of host team release
     cadence
 
@@ -69,10 +60,9 @@ title: Project Level InnerSource Maturity
     the organization's regulations and processes.
   - Releases should be gated on meeting code quality metrics and standards.
 
-#### Development Practices
+### Development Practices
 
 - Level 0:
-
   - Pulling the code and setting it up to run locally is poorly defined and
     often requires reaching out to the core team developers for help
   - Code Reviews are happening on demand
@@ -80,13 +70,11 @@ title: Project Level InnerSource Maturity
     Committers
 
 - Level 1:
-
   - Code Reviews are required but scrutiny may vary between in-team and outside
     submissions
   - Capacity is allocated in sprint for Trusted Committer activities
 
 - Level 2:
-
   - Automated linters and style checks run on commit, so Code Reviews focus on
     design topics
   - Design reviews happen for large changes before coding begins, to ensure
@@ -96,7 +84,6 @@ title: Project Level InnerSource Maturity
     (disinterested) parties.
 
 - Level 3:
-
   - Code Review process is universal for all submissions regardless of which
     team authored the code.
   - Code review is done by both, internal and external team members.
@@ -111,12 +98,11 @@ title: Project Level InnerSource Maturity
   - [Project Lifecycle Definition](https://)
   - [Project Activation](https://)
 
-### Documentation, Standards, & Communication
+## Documentation, Standards, & Communication
 
-#### Context for Implementation
+### Context for Implementation
 
 - Level 0:
-
   - Opportunity provided by central CI/CD implementation or code review
 
 - Level 1:
@@ -125,34 +111,30 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-#### Roadmap
+### Roadmap
 
 - Level 0:
 
 - Level 1:
 
 - Level 2:
-
   - Open backlog/issue tracker
 
 - Level 3:
   - Forward looking roadmap is published for anyone in the organization
   - Meeting minutes from design discussions are published
 
-#### Documentation & Standards: Contributing Process
+### Documentation & Standards: Contributing Process
 
 - Level 0:
-
   - Most repositories have non-trivial README files
 
 - Level 1:
-
   - Contributing guidelines are available in either the README or a separate
     CONTRIBUTING file
   - Each repository has a README outlining (a) user value, (b) how to run
 
 - Level 2:
-
   - SLAs for inquiry responses and code reviews
   - Documented contributing standards, including code style and test coverage
     requirements
@@ -160,7 +142,7 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-#### Documentation & Standards: Preferred Idioms & Design Patterns
+### Documentation & Standards: Preferred Idioms & Design Patterns
 
 - Level 0:
 
@@ -171,27 +153,24 @@ title: Project Level InnerSource Maturity
 - Level 3:
   - Document architecture (e.g. like architecture.md)
 
-#### Community & Communication
+### Community & Communication
 
 - Level 0:
-
   - Accepting contributions
   - Do you have multiple people contributing and using the like-minded projects?
 
 - Level 1:
 
 - Level 2:
-
   - Documented support channels.
 
 - Level 3:
 
-### State of the Code
+## State of the Code
 
-#### State of the Code: Overview
+### State of the Code: Overview
 
 - Level 0:
-
   - Multiple code versioning systems
   - Significant percentage of legacy code without documentation, automated tests
     and deep SME knowledge
@@ -199,7 +178,6 @@ title: Project Level InnerSource Maturity
     components tied to specific individuals)
 
 - Level 1:
-
   - Single code versioning system
   - An active effort is made to modernize some legacy code
   - Remaining legacy code continues to exist without documentation, automated
@@ -208,7 +186,6 @@ title: Project Level InnerSource Maturity
     public
 
 - Level 2:
-
   - An active effort is made to document legacy code while it exists
   - An active effort is made to remove secrets from the code
 
@@ -217,10 +194,9 @@ title: Project Level InnerSource Maturity
     automated tests for the remaining parts
   - Passwords and keys are managed outside the code
 
-#### Technology
+### Technology
 
 - Level 0:
-
   - XX% of legacy code
   - XX% of orphan code
   - Private Repos
@@ -235,22 +211,19 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-### Leadership
+## Leadership
 
-#### Leadership: Overview
+### Leadership: Overview
 
 - Level 0:
-
   - Grass roots efforts within the team with no leadership support (or
     potentially even awareness).
 
 - Level 1:
-
   - Grass roots within thte team with leadership knowledge and no-one impeding
     progress.
 
 - Level 2:
-
   - Leadership has stated their support of InnerSource efforts.
   - InnerSource is not the default, but a supported option. Choice of whether to
     InnerSource often dictated by other priorities (e.g. time to release).
@@ -266,18 +239,16 @@ title: Project Level InnerSource Maturity
   - Policy to InnerSource by default (reuse first).
   - Regular reporting on business value delivered by InnerSource.
 
-### Culture
+## Culture
 
-#### Culture: Overview
+### Culture: Overview
 
 - Level 0:
-
   - Accepting contributions from inside the team or within the org (ie they are
     all under my boss's boss)
   - Product owners are largely unaware of InnerSource
 
 - Level 1:
-
   - Accepting outside contributions after preliminary discussion
   - Double standards for inside-the-team and outside contributions
   - Escalations are normal and necessary for cross-org deliverables
@@ -285,7 +256,6 @@ title: Project Level InnerSource Maturity
     delivery
 
 - Level 2:
-
   - Accepting contributions from anyone based on standard documented
     contribution process
   - Leaders reward reuse above writing brand new code
@@ -295,22 +265,19 @@ title: Project Level InnerSource Maturity
   - Public credit is given to contributors by the code owners
   - Product owners and teams negotiate scope without leaders' involvement
 
-### Ownership
+## Ownership
 
-#### Ownership: Overview
+### Ownership: Overview
 
 - Level 0:
-
   - It is not clear who is responsible and maintenance done on a best effort
     basis with no SLAs.
 
 - Level 1:
-
   - Have defined expectations of person contributing code in terms of code
     maintenance, often with an SLA for a defined period of time.
 
 - Level 2:
-
   - Have more than one department contributing.
   - Expectation that the team that nominally owns the area is responsible fo the
     code that others are contributing.
