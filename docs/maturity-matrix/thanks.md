@@ -2,6 +2,7 @@
 id: thanks
 title: Thank Yous
 ---
+
 Thank you to all the people that contributed to the creation of this document:
 
 - Daniel Izquierdo Cortazar @dicortazar

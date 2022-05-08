@@ -3,8 +3,9 @@ id: maturity-readme
 title: Introduction
 ---
 
-This maturity matrix is based upon the Maturity Model InnerSourcePattern available from
-[InnerSourceCommons.org](InnerSourceCommons.org) and is licensed under a
+This maturity matrix is based upon the Maturity Model InnerSourcePattern
+available from [InnerSourceCommons.org](InnerSourceCommons.org) and is licensed
+under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://patterns.innersourcecommons.org/p/maturity-model)
 
 This document also contains input from the
@@ -14,6 +15,7 @@ they work towards producing an InnerSource maturity matrix for the Financial
 Services sector.
 
 ## Purpose
+
 The purpose of the InnerSource Maturity Matrix Tool is to assess the InnerSource
 health for an organization.
 

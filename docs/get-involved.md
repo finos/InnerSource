@@ -7,9 +7,8 @@ title: Get Involved
 
 - [Sign up to the mailing list](#mailing-list) to stay up to date
 - Explore our [curated list of InnerSource resources](docs/resources.md)
-- Join an
-  [upcoming SIG meeting](#sig-meetings)
-  (or read the minutes from previous ones)
+- Join an [upcoming SIG meeting](#sig-meetings) (or read the minutes from
+  previous ones)
 - Consider [contributing](#contributing)
 
 ## Mailing List
@@ -21,7 +20,14 @@ note to innersource+subscribe@finos.org.
 
 ## SIG Meetings
 
-SIG meetings are monthly, and are announced via the [mailing list](#mailing-list). The agenda and minutes are captured as GitHub issues on [the SIG GitHub repo](https://github.com/finos/innersource). This is a great place to find the details of [upcoming](https://github.com/finos/InnerSource/issues?q=is%3Aopen+is%3Aissue+label%3Ameeting) and [historic](https://github.com/finos/InnerSource/issues?q=is%3Aclosed+is%3Aissue+label%3Ameeting) meetings.
+SIG meetings are monthly, and are announced via the
+[mailing list](#mailing-list). The agenda and minutes are captured as GitHub
+issues on [the SIG GitHub repo](https://github.com/finos/innersource). This is a
+great place to find the details of
+[upcoming](https://github.com/finos/InnerSource/issues?q=is%3Aopen+is%3Aissue+label%3Ameeting)
+and
+[historic](https://github.com/finos/InnerSource/issues?q=is%3Aclosed+is%3Aissue+label%3Ameeting)
+meetings.
 
 ## Contributing
 
