@@ -6,7 +6,7 @@ title: Get Involved
 ## Quick start
 
 - [Sign up to the mailing list](#mailing-list) to stay up to date
-- Explore our [curated list of InnerSource resources](docs/resources.md)
+- Explore our [curated list of InnerSource resources](/resources.md)
 - Join an [upcoming SIG meeting](#sig-meetings) (or read the minutes from
   previous ones)
 - Consider [contributing](#contributing)
