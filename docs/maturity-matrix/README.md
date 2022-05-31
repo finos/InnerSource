@@ -8,14 +8,15 @@ title: InnerSource Maturity Matrix
 ## Overview
 
 This document is based upon the Maturity Model InnerSourcePattern available from
-[InnerSourceCommons.org](InnerSourceCommons.org) and is licensed under a
+[InnerSourceCommons.org](https://innersourcecommons.org/) and is licensed under
+a
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://patterns.innersourcecommons.org/p/maturity-model)
 
 This document also contains input from the
-[FINOS InnerSource SIG meeting held in April 2021](finos/InnerSource#10). This
-is intended as a working document for the FINOS InnerSource SIG to build upon as
-they work towards producing an InnerSource maturity matrix for the Financial
-Services sector.
+[FINOS InnerSource SIG meeting held in April 2021](https://github.com/finos/InnerSource/issues/10).
+This is intended as a working document for the FINOS InnerSource SIG to build
+upon as they work towards producing an InnerSource maturity matrix for the
+Financial Services sector.
 
 ## Purpose
 
