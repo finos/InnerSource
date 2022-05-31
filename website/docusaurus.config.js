@@ -36,7 +36,7 @@ module.exports = {
       items: [
         {to: 'docs/get-involved', label: 'Get Involved', position: 'right'},
         {to: 'docs/resources', label: 'Resources', position: 'right'},
-        {to: 'docs/maturity-matrix/maturity-readme', label: 'Maturity Matrix', position: 'right'}
+        {to: 'docs/maturity-matrix/intro', label: 'Maturity Matrix', position: 'right'}
       ],
     },
     footer: {
@@ -64,7 +64,7 @@ module.exports = {
             },
             {
               label: 'Maturity Matrix',
-              to: 'docs/maturity-matrix/maturity-readme',
+              to: 'docs/maturity-matrix/intro',
             }
           ]
         },

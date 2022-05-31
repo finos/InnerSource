@@ -8,7 +8,7 @@ module.exports = {
       type: 'category',
       label: 'Maturity Matrix',
       collapsed: false,
-      items: [ 'maturity-matrix/maturity-readme', 
+      items: [ 'maturity-matrix/intro', 
                'maturity-matrix/maturity-organization', 
                'maturity-matrix/maturity-project',
                'maturity-matrix/contributing',
