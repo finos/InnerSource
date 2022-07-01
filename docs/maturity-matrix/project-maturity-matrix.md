@@ -1,13 +1,11 @@
 ---
 id: maturity-project
-title: Project Level InnerSource Maturity
+title: Project Maturity
 ---
 
-## Project Level InnerSource Maturity
+## Tooling and Processes
 
-### Tooling and Processes
-
-#### Development & On-boarding
+### Development & On-boarding
 
 - Level 0:
 
@@ -23,7 +21,7 @@ title: Project Level InnerSource Maturity
   - External developers can pull, build and test the code locally and
     automatically.
 
-#### Continuous Integration & Testing
+### Continuous Integration & Testing
 
 - Level 0:
 
@@ -45,7 +43,7 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-#### Continuous Deployment & Building
+### Continuous Deployment & Building
 
 - Level 0:
 
@@ -69,7 +67,7 @@ title: Project Level InnerSource Maturity
     the organization's regulations and processes.
   - Releases should be gated on meeting code quality metrics and standards.
 
-#### Development Practices
+### Development Practices
 
 - Level 0:
 
@@ -111,9 +109,9 @@ title: Project Level InnerSource Maturity
   - [Project Lifecycle Definition](https://)
   - [Project Activation](https://)
 
-### Documentation, Standards, & Communication
+## Documentation, Standards, & Communication
 
-#### Context for Implementation
+### Context for Implementation
 
 - Level 0:
 
@@ -125,7 +123,7 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-#### Roadmap
+### Roadmap
 
 - Level 0:
 
@@ -139,7 +137,7 @@ title: Project Level InnerSource Maturity
   - Forward looking roadmap is published for anyone in the organization
   - Meeting minutes from design discussions are published
 
-#### Documentation & Standards: Contributing Process
+### Documentation & Standards: Contributing Process
 
 - Level 0:
 
@@ -160,7 +158,7 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-#### Documentation & Standards: Preferred Idioms & Design Patterns
+### Documentation & Standards: Preferred Idioms & Design Patterns
 
 - Level 0:
 
@@ -171,7 +169,7 @@ title: Project Level InnerSource Maturity
 - Level 3:
   - Document architecture (e.g. like architecture.md)
 
-#### Community & Communication
+### Community & Communication
 
 - Level 0:
 
@@ -186,9 +184,9 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-### State of the Code
+## State of the Code
 
-#### State of the Code: Overview
+### State of the Code: Overview
 
 - Level 0:
 
@@ -217,7 +215,7 @@ title: Project Level InnerSource Maturity
     automated tests for the remaining parts
   - Passwords and keys are managed outside the code
 
-#### Technology
+### Technology
 
 - Level 0:
 
@@ -235,9 +233,9 @@ title: Project Level InnerSource Maturity
 
 - Level 3:
 
-### Leadership
+## Leadership
 
-#### Leadership: Overview
+### Leadership: Overview
 
 - Level 0:
 
@@ -266,9 +264,9 @@ title: Project Level InnerSource Maturity
   - Policy to InnerSource by default (reuse first).
   - Regular reporting on business value delivered by InnerSource.
 
-### Culture
+## Culture
 
-#### Culture: Overview
+### Culture: Overview
 
 - Level 0:
 
@@ -295,9 +293,9 @@ title: Project Level InnerSource Maturity
   - Public credit is given to contributors by the code owners
   - Product owners and teams negotiate scope without leaders' involvement
 
-### Ownership
+## Ownership
 
-#### Ownership: Overview
+### Ownership: Overview
 
 - Level 0:
 

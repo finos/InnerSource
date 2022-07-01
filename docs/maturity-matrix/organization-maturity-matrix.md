@@ -1,13 +1,11 @@
 ---
 id: maturity-organization
-title: Organization Maturity Matrix
+title: Organizational Maturity
 ---
 
-## Organization Maturity Matrix
+## Transparency
 
-### Transparency
-
-#### Plans & Products
+### Plans & Products
 
 - Level 0
 
@@ -34,7 +32,7 @@ title: Organization Maturity Matrix
     InnerSource project.
   - This contains clear rules to contribute and influence in the roadmap.
 
-#### Decisions
+### Decisions
 
 - Level 0
 
@@ -59,7 +57,7 @@ title: Organization Maturity Matrix
   - Materials that are part of decision-making practices are continuously
     accessible during work processes.
 
-#### Helpful Resources
+### Helpful Resources
 
 - Level 0
 
@@ -103,7 +101,7 @@ title: Organization Maturity Matrix
   - Data is consolidated and easily searchable
   - Exceptions have a migration path
 
-#### Stories
+### Stories
 
 - Level 0
 
@@ -124,9 +122,9 @@ title: Organization Maturity Matrix
   - Individuals and teams are comfortable sharing stories of successes and
     failures, and learn from failures according to formal protocols.
 
-### Collaboration
+## Collaboration
 
-#### Channels for Providing Feedback
+### Channels for Providing Feedback
 
 - Level 0
 
@@ -160,7 +158,7 @@ title: Organization Maturity Matrix
     and maintain teamfacing or public-facing records of the feedback they've
     received and/or the actions they've taken to address this feedback.
 
-#### Leadership
+### Leadership
 
 - Level 0
 
@@ -184,7 +182,7 @@ title: Organization Maturity Matrix
   - Members feel empowered and enabled to share opinions constructively on any
     matter relevant to their work or about which they feel passionate.
 
-#### Organisational and Functional Structure
+### Organisational and Functional Structure
 
 - Level 0
 
@@ -205,7 +203,7 @@ title: Organization Maturity Matrix
     the organization; in turn, the organization promotes best practices for
     working together
 
-#### Contribution
+### Contribution
 
 - Level 0
 
@@ -232,9 +230,9 @@ title: Organization Maturity Matrix
     collaborative efforts, and share their learnings outside the organization,
     and make these outcomes externally available by default.
 
-### Community
+## Community
 
-#### Sharing Policies
+### Sharing Policies
 
 - Level 0
 
@@ -259,7 +257,7 @@ title: Organization Maturity Matrix
     and assessment processes among members of the organization, who reference
     these values and principles consistently in both verbal and written formats.
 
-#### Feel Part of the Organisation
+### Feel Part of the Organisation
 
 - Level 0
 
@@ -286,9 +284,9 @@ title: Organization Maturity Matrix
   - Leaders understand that they grow by helping others grow, and they mentor
     junior members of the organization.
 
-### Governance
+## Governance
 
-#### Rewards
+### Rewards
 
 - Level 0
 
@@ -310,7 +308,7 @@ title: Organization Maturity Matrix
     able to define their more valuable rewards.
   - The community is responsible to decide who has to be rewarded.
 
-#### Monitoring Policies
+### Monitoring Policies
 
 - Level 0
 
@@ -335,7 +333,7 @@ title: Organization Maturity Matrix
     InnerSource adoption within the organization, and at the level of
     InnerSource projects.
 
-#### Support and Maintenance
+### Support and Maintenance
 
 - Level 0
 
@@ -357,7 +355,7 @@ title: Organization Maturity Matrix
   - There are rules and regulations to formalize the support on the product,
     given by a mature community
 
-#### Culture
+### Culture
 
 - Level 0
 
@@ -376,7 +374,7 @@ title: Organization Maturity Matrix
 - Level 3
   - Activist - teams actively seek help, mentor and recruit new contributors.
 
-#### InnerSource roles
+### InnerSource roles
 
 - Level 0
 
@@ -418,9 +416,9 @@ title: Organization Maturity Matrix
     understand and become part of the initiative.
   - Non technical contributors appear.
 
-### Product
+## Product
 
-#### Technology
+### Technology
 
 - Level 0
 
@@ -438,7 +436,7 @@ title: Organization Maturity Matrix
 
 - Level 3
 
-#### Context for Implementation
+### Context for Implementation
 
 - Level 0
 
@@ -450,7 +448,7 @@ title: Organization Maturity Matrix
 
 - Level 3
 
-#### Relevant Documentation
+### Relevant Documentation
 
 - Level 0
 
@@ -465,7 +463,7 @@ title: Organization Maturity Matrix
 
 - Level 3
 
-#### Community
+### Community
 
 - Level 0
 
@@ -478,9 +476,9 @@ title: Organization Maturity Matrix
 
 - Level 3
 
-### Policies
+## Policies
 
-#### Monitoring Policies
+### Monitoring Policies
 
 - Level 0
 
@@ -505,9 +503,9 @@ title: Organization Maturity Matrix
     InnerSource adoption within the organization, and at the level of
     InnerSource projects.
 
-### Other categories/ criteria to be included
+## Other categories/ criteria to be included
 
-#### Architecture
+### Architecture
 
 - Level 0
 
@@ -526,7 +524,7 @@ title: Organization Maturity Matrix
 - Level 3
   - Architecture influences the design of and re-use of InnerSource projects
 
-#### Process & Controls
+### Process & Controls
 
 - Level 0
 
@@ -555,7 +553,7 @@ title: Organization Maturity Matrix
     mandatory
   - Tracability & Auditability of CD process for application are adopted
 
-#### Financial Support
+### Financial Support
 
 - Level 0
 
@@ -569,7 +567,7 @@ title: Organization Maturity Matrix
   - An InnerSource program office is fully funded to support mature projects as
     well as the incubation of new projects.
 
-#### Source & Artifact Management
+### Source & Artifact Management
 
 - Level 0
 
@@ -589,7 +587,7 @@ title: Organization Maturity Matrix
 - Level 3
   - Exceptions to the rules have a migration path
 
-#### Reward and Recognition
+### Reward and Recognition
 
 - Level 0
 
