@@ -73,7 +73,7 @@ module.exports = {
           items: [
             {
               label: 'FINOS Website',
-              to: 'https://regulationinnovation.org/air-events/',
+              to: 'https://finos.org',
             },
             {
               label: 'Community Handbook',
