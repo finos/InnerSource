@@ -28,7 +28,8 @@ The command should open your browser and point to `http://localhost:3000`.
 ## Deployment
 
 [Netlify](https://www.netlify.com/) is the default way to serve FINOS websites
-publicly. Find docs [here](https://docs.netlify.com/configure-builds/get-started/).
+publicly. Find docs
+[here](https://docs.netlify.com/configure-builds/get-started/).
 
 You can configure Netlify using your own GitHub account, pointing to a personal
 repository (or fork); when adding a new site, please use the following
