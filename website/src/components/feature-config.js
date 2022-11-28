@@ -45,10 +45,10 @@ export const features = [
         description: (
             <>Here are a few ways to get involved:
                 <ul className="no-bullets">
-                  <li>Join us for <a href=''>an upcoming meeting</a></li>
-                  <li>Subscribe to <a href=''>our mailing list</a></li>
-                  <li>Dig deep in <a href=''>our curated collection of resources</a></li>
-                  <li>Explore <a href=''>our Innersource Maturity Matrix</a></li>
+                  <li>Join us for <a href='https://innersource.finos.org/docs/get-involved/#sig-meetings'>an upcoming meeting</a></li>
+                  <li>Subscribe to <a href='/docs/get-involved/#mailing-list'>our mailing list</a></li>
+                  <li>Dig deep in <a href='/docs/resources/'>our curated collection of resources</a></li>
+                  <li>Explore <a href='/docs/maturity-matrix/intro'>our Innersource Maturity Matrix</a></li>
                 </ul></>
         ),
         about: {
