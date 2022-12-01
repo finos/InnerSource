@@ -1,7 +1,6 @@
 ---
 name: "\U0001F91D InnerSource SIG License Working Group Agenda and Minutes"
-about:
-  To track InnerSource SIG License Working Group meeting agenda and attendance
+about: To track InnerSource SIG License Working Group meeting agenda and attendance
 title: DD MMM YYYY - InnerSource SIG License Working Group Meeting Minutes
 labels: meeting
 assignees:
