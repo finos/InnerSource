@@ -81,7 +81,7 @@ module.exports = {
             },
             {
               label: 'Community Governance',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530783/Community+Governance',
+              to: 'https://community.finos.org/docs/governance/',
             }
           ]
         },
