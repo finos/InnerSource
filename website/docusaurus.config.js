@@ -76,8 +76,8 @@ module.exports = {
               to: 'https://regulationinnovation.org/air-events/',
             },
             {
-              label: 'Community Handbook',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/80642059/Community+Handbook',
+              label: 'Community Microsite',
+              to: 'https://community.finos.org/docs/journey/learn',
             },
             {
               label: 'Community Governance',
