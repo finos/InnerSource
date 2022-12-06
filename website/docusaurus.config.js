@@ -76,12 +76,12 @@ module.exports = {
               to: 'https://finos.org',
             },
             {
-              label: 'Community Handbook',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/80642059/Community+Handbook',
+              label: 'Community Microsite',
+              to: 'https://community.finos.org/docs/journey/learn',
             },
             {
               label: 'Community Governance',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530783/Community+Governance',
+              to: 'https://community.finos.org/docs/governance/',
             }
           ]
         },
