@@ -9,7 +9,7 @@ contribute software back to the open source world.
 ## Introducing the InnerSource SIG
 
 The FINOS InnerSource
-[Special Interest Group](https://github.com/finos/community/tree/master/governance#special-interest-groups)
+[Special Interest Group](https://github.com/finos/community/tree/main/docs/governance#special-interest-groups)
 is a community of people implementing, or interested in implementing,
 InnerSource within their financial services organization.
 
