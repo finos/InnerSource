@@ -36,12 +36,12 @@ ownership issues that can stall innovation.
 
 | Name           | Firm                | Role                     |
 | :------------- | :------------------ | :----------------------- |
-| Arthur Maltson | Capital One         | SIG Co-Lead              |
-| Elspeth Minty  | Morgan Stanley      | SIG Co-Lead              |
-| Clare Dillon   | InnerSource Commons | SIG Secretary            |
-| Aaron Searle   | Morgan Stanley      | SIG Leadership Committee |
-| Anthony Vacca  | RBC                 | SIG Leadership Committee |
-| Danese Cooper  | InnerSource Commons | SIG Leadership Committee |
+| Brittany Istenes | Fannie Mae        | SIG Co-Lead              |
+| Chamindra DiSilve  | Citi Bank      | SIG Co-Lead              |
+| Rob Moffat    | FINOS  | SIG Secretary            |
+| Peter Smolovics   | Morgan Stanley      | SIG Leadership Committee |
+| Miguel Captiao  | Deutsche bank            | SIG Leadership Committee |
+| Russ Rutledge  | InnerSource Commons | SIG Leadership Committee |
 
 ## Quick start
 
