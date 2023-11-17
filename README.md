@@ -37,7 +37,7 @@ ownership issues that can stall innovation.
 | Name           | Firm                | Role                     |
 | :------------- | :------------------ | :----------------------- |
 | Brittany Istenes | Fannie Mae        | SIG Co-Lead              |
-| Chamindra DiSilve  | Citi Bank      | SIG Co-Lead              |
+| Chamindra de Silva  | Citi           | SIG Co-Lead              |
 | Rob Moffat    | FINOS  | SIG Secretary            |
 | Peter Smulovics   | Morgan Stanley      | SIG Leadership Committee |
 | Miguel Captiao  | Deutsche bank            | SIG Leadership Committee |
