@@ -20,7 +20,7 @@ note to innersource+subscribe@finos.org.
 
 ## SIG Meetings
 
-SIG meetings are monthly, and are announced via the
+SIG meetings happen every two weeks, and are announced via the
 [mailing list](#mailing-list). The agenda and minutes are captured as GitHub
 issues on [the SIG GitHub repo](https://github.com/finos/innersource). This is a
 great place to find the details of
@@ -28,6 +28,9 @@ great place to find the details of
 and
 [historic](https://github.com/finos/InnerSource/issues?q=is%3Aclosed+is%3Aissue+label%3Ameeting)
 meetings.
+
+## InnerSource License Generator Working Group
+The InnerSource SIG is actively developing a tool that can be used to generate InnerSource Licenses. This work is in progress in FINOS Labs and you are welcome to join the development effort [InnerSource License Generator - Github](https://github.com/finos-labs/innersource-license-generator)
 
 ## Contributing
 
