@@ -51,6 +51,9 @@ ownership issues that can stall innovation.
   [upcoming SIG meeting](https://github.com/finos/InnerSource/issues?q=is%3Aopen+is%3Aissue+label%3Ameeting)
   (or read the minutes from previous ones)
 
+## InnerSource License Generator Working Group
+The InnerSource SIG is actively developing a tool that can be used to generate InnerSource Licenses. This work is in progress in FINOS Labs and you are welcome to join the development effort [InnerSource License Generator - Github](https://github.com/finos-labs/innersource-license-generator)
+
 ## Mailing List
 
 All SIG related communications are conducted through the innersource@finos.org
