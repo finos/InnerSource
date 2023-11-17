@@ -11,14 +11,15 @@ assignees:
  ## Date
 _day-of-week_ DD MMM yyyy - _time_ EST / _time_ UK
 
-## Untracked attendees
+## Attendee Identity
+Please identify yourself when you attend the meeting by providing your name and affiliation in reply to this thread. Alternative we will need to add you here if you do not have a Github id
 - Fullname, Affiliation, (optional) GitHub username
 - ...
 
 ## Meeting notices
-- FINOS **SIG Leads** are responsible for observing the FINOS guidelines for [running project meetings](https://github.com/finos/community/blob/master/governance/Meeting-Procedures.md#run-the-meeting). Project maintainers can find additional resources in the [FINOS Maintainers Cheatsheet](https://odp.finos.org/docs/finos-maintainers-cheatsheet/).
+- FINOS **SIG Leads** are responsible for observing the FINOS guidelines for [running project meetings](https://community.finos.org/docs/governance/meeting-procedures/). Project maintainers can find additional resources in the [FINOS Maintainers Cheatsheet](https://odp.finos.org/docs/finos-maintainers-cheatsheet/).
 
-- **All participants** in FINOS project meetings are subject to the [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), the [FINOS Community Code of Conduct](https://github.com/finos/community/blob/master/governance/Code-of-Conduct.md) and all other [FINOS policies](https://github.com/finos/community/tree/master/governance#policies). 
+- **All participants** in FINOS project meetings are subject to the [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), the [FINOS Community Code of Conduct](https://www.finos.org/code-of-conduct) and all other [FINOS policies](https://community.finos.org/docs/governance/#policies). 
 
 - FINOS meetings involve participation by industry competitors, and it is the intention of FINOS and the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws. Please contact legal@finos.org with any questions.
 
@@ -26,7 +27,7 @@ _day-of-week_ DD MMM yyyy - _time_ EST / _time_ UK
 
 ## Agenda
 - [ ] Convene & roll call (5mins)
-- [ ] Display [FINOS Antitrust Policy summary slide](https://github.com/finos/community/blob/master/governance/Compliance-Slides/Antitrust-Compliance-Slide.pdf) 
+- [ ] Display [FINOS Antitrust Policy summary slide](https://www.linuxfoundation.org/legal/antitrust-policy) 
 - [ ] Review Meeting Notices (see above)
 - [ ] Approve past meeting minutes
 - [ ] Review FINOS Slack InnerSource SIG Channel - https://finos-lf.slack.com/archives/C01SYB503QT
@@ -39,6 +40,9 @@ _day-of-week_ DD MMM yyyy - _time_ EST / _time_ UK
 - [ ] Decision 1
 - [ ] Decision 2
 - [ ] ...
+
+## Minutes
+- 
 
 ## Action Items
 - [ ] Action 1
