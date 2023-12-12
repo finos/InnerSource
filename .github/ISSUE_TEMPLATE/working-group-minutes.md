@@ -51,9 +51,9 @@ _Monday_ DD MMM yyyy - _time_ EST / _time_ UK
 
 ### Zoom Details
 
-- https://zoom.us/j/94949043746?pwd=WnBFQjhpUnBjMWE0OUhqUGhhb0ZOdz09
-- **Meeting ID:** 949 4904 3746
-- **Passcode:** 067897
+- https://zoom.us/j/97717618541
+- Meeting ID: 977 1761 8541
+- Passcode: 878599
 
 ### Join by phone
 Find your local number: https://zoom.us/u/adJnH9JOiY
