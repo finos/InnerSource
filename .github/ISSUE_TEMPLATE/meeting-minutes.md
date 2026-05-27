@@ -27,10 +27,8 @@ Please identify yourself when you attend the meeting by providing your name and 
 
 ## Agenda
 - [ ] Convene & roll call (5mins)
-- [ ] Display [FINOS Antitrust Policy summary slide](https://www.linuxfoundation.org/legal/antitrust-policy) 
-- [ ] Review Meeting Notices (see above)
-- [ ] Approve past meeting minutes
-- [ ] Review FINOS Slack InnerSource SIG Channel - https://finos-lf.slack.com/archives/C01SYB503QT
+- [ ] Display [FINOS Antitrust Policy summary slide](https://www.linuxfoundation.org/legal/antitrust-policy)
+- [ ] [Project Plan](https://github.com/orgs/finos/projects/104) Status
 - [ ] Agenda item 1
 - [ ] Agenda item 2
 - [ ] ...
@@ -50,10 +48,10 @@ Please identify yourself when you attend the meeting by providing your name and 
 - [ ] ...
 
 ### Zoom Details
-
-- [https://zoom.us/j/97717618541](https://zoom.us/j/97717618541)
+- https://zoom.us/j/97717618541](https://zoom.us/j/97717618541)
 - Meeting ID: 977 1761 8541
-- Passcode: 878599)
+- Passcode: 878599
+
 
 ### Join by phone
 Find your local number: https://zoom.us/u/adJnH9JOiY
