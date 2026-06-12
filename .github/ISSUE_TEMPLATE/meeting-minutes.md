@@ -9,7 +9,7 @@ assignees:
 
 
  ## Date
-_day-of-week_ DD MMM yyyy - _time_ EST / _time_ UK
+_Friday_ DD MMM yyyy - _9:00am_ EST / _2:00pm_ UK
 
 ## Attendee Identity
 Please identify yourself when you attend the meeting by providing your name and affiliation in reply to this thread. Alternative we will need to add you here if you do not have a Github id
@@ -48,9 +48,7 @@ Please identify yourself when you attend the meeting by providing your name and 
 - [ ] ...
 
 ### Zoom Details
-- https://zoom.us/j/97717618541](https://zoom.us/j/97717618541)
-- Meeting ID: 977 1761 8541
-- Passcode: 878599
+-  https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?password=9ffd3106-34d9-42bc-b530-8c7866386826 (please join with this link to register your attendance)
 
 
 ### Join by phone
