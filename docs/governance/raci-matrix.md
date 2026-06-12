@@ -83,12 +83,8 @@ When operating a joint Special Interest Group (SIG) under FINOS governance, cert
 
 ## References
 
-[^1]: [^2]: [^9]: [Overview | FINOS Community](https://community.finos.org/docs/governance/)
-
-[^3]: [^4]: [^5]: [^6]: [^7]: [^8]: [Meetings of FINOS projects | FINOS Community](https://community.finos.org/docs/governance/meeting-procedures/)
-
-[^10]: [^11]: [Our Collaborative Principles | FINOS Community](https://community.finos.org/docs/governance/collaborative-principles/)
-
-[FINOS InnerSource Introduction](https://osr.finos.org/docs/innersource/introduction)
-
-[InnerSource Commons Joins FINOS](https://innersourcecommons.org/about/announcements/2021-03-finos/)
+- [Overview | FINOS Community](https://community.finos.org/docs/governance/)
+- [Meetings of FINOS projects | FINOS Community](https://community.finos.org/docs/governance/meeting-procedures/)
+- [Our Collaborative Principles | FINOS Community](https://community.finos.org/docs/governance/collaborative-principles/)
+- [FINOS InnerSource Introduction](https://osr.finos.org/docs/innersource/introduction)
+- [InnerSource Commons Joins FINOS](https://innersourcecommons.org/about/announcements/2021-03-finos/)
