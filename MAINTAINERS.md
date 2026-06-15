@@ -6,11 +6,8 @@ This file lists the maintainers of this repository.
 
 | GitHub Username | Name | Organization | Email |
 |----------------|------|--------------|-------|
-| @BrittanyIstenes | Brittany Istenes | *please add organization* | *please add email* |
-| @amaltson | Arthur Maltson | *please add organization* | *please add email* |
-| @chamindra | Chamindra de Silva | Sahana Foundation | *please add email* |
-| @pcheong-lbg | Pooi Cheong | *please add organization* | *please add email* |
-| @psmulovics | Peter Smulovics | Morgan Stanley | *please add email* |
+| @chamindra | Chamindra de Silva | Citi | chamindra.desilva@citi.com |
+| @pcheong-lbg | Pooi Cheong | NatWest Group | pooiling.cheong@natwest.com |
 
 For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
 
