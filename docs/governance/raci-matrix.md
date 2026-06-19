@@ -1,4 +1,6 @@
-# RACI Matrix for InnerSource Commons and FINOS
+# RACI Matrix for InnerSource Commons and FINOS - DRAFT
+
+( Please note this document is in DRAFT and is yet to be finalized)
 
 **September 2025**
 
