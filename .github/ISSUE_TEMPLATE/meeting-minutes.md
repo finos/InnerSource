@@ -9,7 +9,7 @@ assignees:
 
 
  ## Date
-_Friday_ DD MMM yyyy - _9:00am_ EST / _2:00pm_ UK
+_Monday_ DD MMM yyyy - _9:00am_ EST / _2:00pm_ UK
 
 ## Attendee Identity
 Please identify yourself when you attend the meeting by providing your name and affiliation in reply to this thread. Alternative we will need to add you here if you do not have a Github id
@@ -29,6 +29,7 @@ Please identify yourself when you attend the meeting by providing your name and 
 - [ ] Convene & roll call (5mins)
 - [ ] Display [FINOS Antitrust Policy summary slide](https://www.linuxfoundation.org/legal/antitrust-policy)
 - [ ] [Project Plan](https://github.com/orgs/finos/projects/104) Status
+- [ ] Review [Open Pull Requests](https://github.com/finos/InnerSource/pulls)
 - [ ] Agenda item 1
 - [ ] Agenda item 2
 - [ ] ...
@@ -39,7 +40,7 @@ Please identify yourself when you attend the meeting by providing your name and 
 - [ ] Decision 2
 - [ ] ...
 
-## Minutes
+## Zoom Minutes
 - 
 
 ## Action Items
@@ -48,7 +49,7 @@ Please identify yourself when you attend the meeting by providing your name and 
 - [ ] ...
 
 ### Zoom Details
--  https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?password=9ffd3106-34d9-42bc-b530-8c7866386826 (please join with this link to register your attendance)
+-  [https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?password=9ffd3106-34d9-42bc-b530-8c7866386826](https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?password=9ffd3106-34d9-42bc-b530-8c7866386826) (please join with this link to register your attendance)
 
 
 ### Join by phone
