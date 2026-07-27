@@ -7,7 +7,7 @@ This file lists the maintainers of this repository.
 | GitHub Username | Name | Organization | Email |
 |----------------|------|--------------|-------|
 | @chamindra | Chamindra de Silva | Citi | chamindra.desilva@citi.com |
-| @pcheong-lbg | Pooi Cheong | NatWest Group | pooiling.cheong@natwest.com |
+| @pooi-cheong | Pooi Cheong | NatWest Group | pooiling.cheong@natwest.com |
 
 For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
 
