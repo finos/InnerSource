@@ -10,6 +10,7 @@
 - Enhance the quality, security, and speed of software development by adopting best practices from the open source community
 - Create a platform for continuous learning, mentorship, and knowledge exchange on cutting-edge technologies and methodologies
 - Contribute to the development of open standards and reusable software components that can benefit the wider FINTECH ecosystem
+- Build on the general InnerSource practice curated by [InnerSource Commons](https://innersourcecommons.org/), the upstream community for InnerSource patterns and knowledge, and adapt it to the needs of the FINTECH sector
 
 ### Membership
 

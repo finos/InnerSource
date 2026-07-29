@@ -22,6 +22,11 @@ Where appropriate, the InnerSource SIG will also work with
 [InnerSource Commons](http://www.innersourcecommons.org) to share relevant
 outputs upstream to the broader InnerSource community.
 
+[InnerSource Commons](https://innersourcecommons.org/) is the upstream source for
+general InnerSource practice, curating the patterns, learning path, and body of
+knowledge that apply across every industry. The FINOS InnerSource SIG builds on
+that foundation, focusing on the concerns particular to financial services.
+
 Discussions have an emphasis on challenges and concerns that are particular to
 FS organizations (e.g. relating to compliance or regulatory constraints).
 
