@@ -34,14 +34,14 @@ ownership issues that can stall innovation.
 
 ## InnerSource SIG Leadership
 
-| Name           | Firm                | Role                     |
-| :------------- | :------------------ | :----------------------- |
-| Brittany Istenes | Fannie Mae        | SIG Co-Lead              |
-| Chamindra de Silva  | Citi           | SIG Co-Lead              |
-| Rob Moffat    | FINOS  | SIG Secretary            |
-| Peter Smulovics   | Morgan Stanley      | SIG Leadership Committee |
-| Miguel Captiao  | Deutsche bank            | SIG Leadership Committee |
-| Russ Rutledge  | InnerSource Commons | SIG Leadership Committee |
+| Name               | Firm                | Role                     |
+| :----------------- | :------------------ | :----------------------- |
+| Brittany Istenes   | Fannie Mae          | SIG Co-Lead              |
+| Chamindra de Silva | Citi                | SIG Co-Lead              |
+| Rob Moffat         | FINOS               | SIG Secretary            |
+| Peter Smulovics    | Morgan Stanley      | SIG Leadership Committee |
+| Miguel Captiao     | Deutsche bank       | SIG Leadership Committee |
+| Russ Rutledge      | InnerSource Commons | SIG Leadership Committee |
 
 ## Quick start
 
@@ -52,7 +52,11 @@ ownership issues that can stall innovation.
   (or read the minutes from previous ones)
 
 ## InnerSource License Generator Working Group
-The InnerSource SIG is actively developing a tool that can be used to generate InnerSource Licenses. This work is in progress in FINOS Labs and you are welcome to join the development effort [InnerSource License Generator - Github](https://github.com/finos-labs/innersource-license-generator)
+
+The InnerSource SIG is actively developing a tool that can be used to generate
+InnerSource Licenses. This work is in progress in FINOS Labs and you are welcome
+to join the development effort
+[InnerSource License Generator - Github](https://github.com/finos-labs/innersource-license-generator)
 
 ## Mailing List
 
