@@ -28,7 +28,8 @@
 
 Membership Requirements:
 
-Open to everyone from participating FINTECH organizations who are interested, or currently practicing, InnerSource
+- Open to everyone from participating FINTECH organizations who are interested,
+  or currently practicing, InnerSource
 - Members are expected to actively contribute to discussions, share their
   knowledge, and participate in SIG activities
 
