@@ -19,8 +19,9 @@ InnerSource tooling) in a secure environment, with the aim of contributing
 proven methods to FINOS and the wider InnerSource Commons community.
 
 Where appropriate, the InnerSource SIG will also work with
-[InnerSource Commons](http://www.innersourcecommons.org) to share relevant
-outputs upstream to the broader InnerSource community.
+[InnerSource Commons](https://innersourcecommons.org/), the upstream source for
+general InnerSource practice, to share relevant outputs upstream to the broader
+InnerSource community.
 
 Discussions have an emphasis on challenges and concerns that are particular to
 FS organizations (e.g. relating to compliance or regulatory constraints).
