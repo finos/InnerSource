@@ -4,8 +4,10 @@
 
 - The FINOS InnerSource SIG is a designated space to foster a culture of
   collaboration, openness, and shared responsibility within the FINTECH
-  industry, leveraging InnerSource principles to improve software development
-  processes, innovation, and operational efficiency across the organization.
+  industry, leveraging the InnerSource principles maintained by
+  [InnerSource Commons](https://innersourcecommons.org/) to improve software
+  development processes, innovation, and operational efficiency across the
+  organization.
 
 ### Goals
 
@@ -26,8 +28,8 @@
 
 Membership Requirements:
 
-- Open to all everyone of participating FINTECH organizations who are interested
-  in or currently practicing InnerSource
+- Open to everyone from participating FINTECH organizations who are interested,
+  or currently practicing, InnerSource
 - Members are expected to actively contribute to discussions, share their
   knowledge, and participate in SIG activities
 

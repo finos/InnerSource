@@ -52,8 +52,8 @@ you do not have a Github id
 - [ ] [Project Plan](https://github.com/orgs/finos/projects/104) Status Review
   - [ ] Review
         [InnerSource Repo Pull Requests](https://github.com/finos/InnerSource/pulls)
-  - [ ] Review [OSR InnerSource Site Pull
-        Requests]([ ](https://github.com/finos/open-source-readiness/pulls?q=is%3Apr+is%3Aopen+label%3Ainnersource)
+  - [ ] Review
+        [OSR InnerSource Site Pull Requests](https://github.com/finos/open-source-readiness/pulls?q=is%3Apr+is%3Aopen+label%3Ainnersource)
 - [ ] Agenda item 1
 - [ ] Agenda item 2
 - [ ] ...
