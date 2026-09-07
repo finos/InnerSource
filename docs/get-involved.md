@@ -30,7 +30,11 @@ and
 meetings.
 
 ## InnerSource License Generator Working Group
-The InnerSource SIG is actively developing a tool that can be used to generate InnerSource Licenses. This work is in progress in FINOS Labs and you are welcome to join the development effort [InnerSource License Generator - Github](https://github.com/finos-labs/innersource-license-generator)
+
+The InnerSource SIG is actively developing a tool that can be used to generate
+InnerSource Licenses. This work is in progress in FINOS Labs and you are welcome
+to join the development effort
+[InnerSource License Generator - Github](https://github.com/finos-labs/innersource-license-generator)
 
 ## Contributing
 

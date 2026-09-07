@@ -3,58 +3,85 @@ name: "\U0001F91D InnerSource SIG Meeting Agenda and Minutes"
 about: To track InnerSource SIG meeting agenda and attendance
 title: DD MMM YYYY - InnerSource SIG Meeting Minutes
 labels: meeting
-assignees: 
-
+assignees:
 ---
 
+## Date
 
- ## Date
 _Monday_ DD MMM yyyy - _9:00am_ EST / _2:00pm_ UK
 
 ## Attendee Identity
-Please identify yourself when you attend the meeting by providing your name and affiliation in reply to this thread. Alternative we will need to add you here if you do not have a Github id
+
+Please identify yourself when you attend the meeting by providing your name and
+affiliation in reply to this thread. Alternative we will need to add you here if
+you do not have a Github id
+
 - Fullname, Affiliation, (optional) GitHub username
 - ...
 
 ## Meeting notices
-- FINOS **SIG Leads** are responsible for observing the FINOS guidelines for [running project meetings](https://community.finos.org/docs/governance/meeting-procedures/). Project maintainers can find additional resources in the [FINOS Maintainers Cheatsheet](https://odp.finos.org/docs/finos-maintainers-cheatsheet/).
 
-- **All participants** in FINOS project meetings are subject to the [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), the [FINOS Community Code of Conduct](https://www.finos.org/code-of-conduct) and all other [FINOS policies](https://community.finos.org/docs/governance/#policies). 
+- FINOS **SIG Leads** are responsible for observing the FINOS guidelines for
+  [running project meetings](https://community.finos.org/docs/governance/meeting-procedures/).
+  Project maintainers can find additional resources in the
+  [FINOS Maintainers Cheatsheet](https://odp.finos.org/docs/finos-maintainers-cheatsheet/).
 
-- FINOS meetings involve participation by industry competitors, and it is the intention of FINOS and the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws. Please contact legal@finos.org with any questions.
+- **All participants** in FINOS project meetings are subject to the
+  [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), the
+  [FINOS Community Code of Conduct](https://www.finos.org/code-of-conduct) and
+  all other
+  [FINOS policies](https://community.finos.org/docs/governance/#policies).
 
-- FINOS SIG meetings may be recorded for use solely by the FINOS team for administration purposes. In very limited instances, and with explicit approval, recordings may be made more widely available.
+- FINOS meetings involve participation by industry competitors, and it is the
+  intention of FINOS and the Linux Foundation to conduct all of its activities
+  in accordance with applicable antitrust and competition laws. It is therefore
+  extremely important that attendees adhere to meeting agendas, and be aware of,
+  and not participate in, any activities that are prohibited under applicable US
+  state, federal or foreign antitrust and competition laws. Please contact
+  legal@finos.org with any questions.
+
+- FINOS SIG meetings may be recorded for use solely by the FINOS team for
+  administration purposes. In very limited instances, and with explicit
+  approval, recordings may be made more widely available.
 
 ## Agenda
+
 - [ ] Convene & roll call (5mins)
-- [ ] Display [FINOS Antitrust Policy summary slide](https://www.linuxfoundation.org/legal/antitrust-policy)
-- [ ] [Project Plan](https://github.com/orgs/finos/projects/104) Status
-Review
-  - [ ] Review [InnerSource Repo Pull Requests](https://github.com/finos/InnerSource/pulls)
-  - [ ] Review [OSR InnerSource Site Pull Requests](https://github.com/finos/open-source-readiness/pulls?q=is%3Apr+is%3Aopen+label%3Ainnersource)
+- [ ] Display
+      [FINOS Antitrust Policy summary slide](https://www.linuxfoundation.org/legal/antitrust-policy)
+- [ ] [Project Plan](https://github.com/orgs/finos/projects/104) Status Review
+  - [ ] Review
+        [InnerSource Repo Pull Requests](https://github.com/finos/InnerSource/pulls)
+  - [ ] Review
+        [OSR InnerSource Site Pull Requests](https://github.com/finos/open-source-readiness/pulls?q=is%3Apr+is%3Aopen+label%3Ainnersource)
 - [ ] Agenda item 1
 - [ ] Agenda item 2
 - [ ] ...
 - [ ] AOB, Q&A & Adjourn (5mins)
 
 ## Decisions Made
+
 - [ ] Decision 1
 - [ ] Decision 2
 - [ ] ...
 
 ## Zoom Minutes
-- 
+
+-
 
 ## Action Items
+
 - [ ] Action 1
 - [ ] Action 2
 - [ ] ...
 
 ### Zoom Details
--  [https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?password=9ffd3106-34d9-42bc-b530-8c7866386826](https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?password=9ffd3106-34d9-42bc-b530-8c7866386826) (please join with this link to register your attendance)
 
+- [https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?password=9ffd3106-34d9-42bc-b530-8c7866386826](https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?password=9ffd3106-34d9-42bc-b530-8c7866386826)
+  (please join with this link to register your attendance)
 
 ### Join by phone
+
 Find your local number: https://zoom.us/u/adJnH9JOiY
 
 ### Mailing List
