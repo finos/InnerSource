@@ -8,6 +8,7 @@ This file lists the maintainers of this repository.
 | --------------- | ------------------ | ------------- | --------------------------- |
 | @chamindra      | Chamindra de Silva | Citi          | chamindra.desilva@citi.com  |
 | @pooi-cheong    | Pooi Cheong        | NatWest Group | pooiling.cheong@natwest.com |
+| @rrrutledge  | Russ Rutledge      | InnerSource Commons | russell.rutledge@outlook.com |
 
 For information about maintainer responsibilities and resources, see the
 [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
